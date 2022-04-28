@@ -1,0 +1,11 @@
+{
+  "name": "yarn-auto-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ryoctrl/yarn-auto-test.git",
+  "author": "ryoctrl <ryoctrl@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "auto": "^10.36.5"
+  }
+}
